@@ -98,6 +98,7 @@ A list of resources for UXDI students
 - [Bootstrap](http://getbootstrap.com/)
 - [Ratchet](http://goratchet.com/)
 - [Foundation](http://foundation.zurb.com/)
+- [Clique](http://ui.cliquestudios.com/)
 
 ####Tools
 - [GitHub](http://github.com/)
