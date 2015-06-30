@@ -1,8 +1,15 @@
 # UXDI-Resources
 A list of resources for UXDI students
 
-##GA Student Project Gallery
+##GA Resources
+###Student Project Gallery
 - [GA Gallery](http://gallery.ga.co/)
+
+###Campus Library
+- [GA Chicago Campus Library](http://ga-chicago-library.herokuapp.com/)
+
+###UX Design at GA
+- [UX - Latest stories in the growing field of UX Design](https://medium.com/ux-design-at-ga)
 
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
@@ -14,6 +21,7 @@ A list of resources for UXDI students
 - [How Designers Destroyed the World by Mike Monteiro— An AEA Video](http://aneventapart.com/news/post/how-designers-destroyed-the-world-by-mike-monteiro-an-aea-video)
 
 ##Books
+- [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
 - [Just Enough Research](http://abookapart.com/products/just-enough-research)
 - [Design is a Job](http://abookapart.com/products/design-is-a-job)
 - [Designing for Emotion](http://abookapart.com/products/designing-for-emotion)
@@ -23,6 +31,7 @@ A list of resources for UXDI students
 - [Design for the Real World](http://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532/)
 
 ##Articles
+- [UI Design Principles And Guidelines](https://visualhierarchy.co/blog/ui-design-principles-and-guidelines/)
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
 - [10 Questions You’ll Be Asked in a UX Interview](https://medium.com/salesforce-ux/10-questions-youll-be-asked-in-a-ux-interview-f93f0c78f31d)
 - [The hardest thing in UX design…](https://medium.com/designing-atlassian/the-hardest-thing-in-ux-design-f8b2f41e2d2f)
@@ -43,6 +52,7 @@ A list of resources for UXDI students
 - [The Ten Commandments Of Efficient Design In Axure](http://www.smashingmagazine.com/2013/10/04/ten-commandments-of-efficient-design-in-axure/)
 - [The 10 Commandments Of User Interface Design](http://editorial.designtaxi.com/editorial-images/news-info300415/1.jpg)
 - [The Dribbblisation of Design](https://medium.com/@intercom/the-dribbblisation-of-design-406422ccb026)
+- [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 
 ##Design Blogs
 - [A List Apart](http://alistapart.com/)
@@ -113,6 +123,9 @@ A list of resources for UXDI students
 - [Google Drive](https://www.google.com/drive/?authuser=0)
 - [OneDrive](https://onedrive.live.com/about/en-us/)
 
+##Reference
+- [UX Companion](http://uxcompanion.com/)
+
 ##Organizations
 - [99u Local: Chicago](http://www.meetup.com/99U-Local-Chicago/?a=wr1_2)
 - [IxDA Chicago](http://www.ixdachicago.org/)
@@ -121,6 +134,7 @@ A list of resources for UXDI students
 
 ##Case Studies / UX Design Portfolios
 ###Case Studies
+- [Rethink Digital Newspaper](http://nytimes.tematroinoi.com/)
 - [ComEd x Agentis](http://akta.com/case-study/agentis-energy-comed/)
 - [Sphero](http://www.sliceoflime.com/projects/sphero/)
 - [True Spirit](http://www.ux.danielspagnolo.com/casestudy_truespirit.html)
