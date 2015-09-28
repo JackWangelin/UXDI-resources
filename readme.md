@@ -3,13 +3,26 @@ A list of resources for UXDI students
 
 ##GA Resources
 ###Student Project Gallery
-- [GA Gallery](http://gallery.ga.co/)
+- [GA Gallery](https://gallery.generalassemb.ly/)
 
 ###Campus Library
 - [GA Chicago Campus Library](http://ga-chicago-library.herokuapp.com/)
 
 ###UX Design at GA
 - [UX - Latest stories in the growing field of UX Design](https://medium.com/ux-design-at-ga)
+
+###Local Companies Hiring
+The Chicago job market for design is robust and sometimes difficult to find opportunities because companies post across many job boards in addition to their own sites. These are a few focused places to start looking.
+- [Built in Chicago](http://www.builtinchicago.org/jobs#/jobs?f%5B%5D=im_job_categories%3A79)
+- [AIGA Design Jobs](http://designjobs.aiga.org/#location=Chicago, IL)
+- [Authentic Jobs](https://authenticjobs.com/#location=Chicago&search=Design)
+- [Angelist](https://angel.co/chicago/designer/jobs)
+- [We Work Remotely](https://weworkremotely.com/categories/1-design/jobs#intro)
+- [Chicago Ad Agency List](http://chicagoadagencylist.com/)
+
+####A list of Chicago Creative Agencies (linked directly to IxD firms)
+- [Agency Pimp](http://agencypimp.com/#interactive_design)
+
 
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
@@ -19,6 +32,13 @@ A list of resources for UXDI students
 - [David Kelley: How to build your creative confidence](http://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence)
 - [Elizabeth Gilbert: Your elusive creative genius](http://www.ted.com/talks/elizabeth_gilbert_on_genius)
 - [How Designers Destroyed the World by Mike Monteiro— An AEA Video](http://aneventapart.com/news/post/how-designers-destroyed-the-world-by-mike-monteiro-an-aea-video)
+- [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c)
+- [Bill Buxton on sketching experiences](https://vimeo.com/5189134)
+- [Startup Lab workshop: User Research, Quick 'n' Dirty](https://www.youtube.com/watch?v=WpzmOH0hrEM)
+- [Start With Why - Simon Sinek TED talk](https://www.youtube.com/watch?v=sioZd3AxmnE)
+- [Adobe: Five Essential Principles of Interaction Design](http://tv.adobe.com/watch/classroom-five-essential-principles-of-interaction-design/part-1-five-essential-principles-of-interaction-design/)
+- [Ling at Handheld](https://www.youtube.com/watch?v=FbUyCMA5NRE)
+- [How to Design an Effective Presentation](https://www.youtube.com/watch?v=HJgeF3ALl0g)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
@@ -29,8 +49,17 @@ A list of resources for UXDI students
 - [The Shape of Design](http://shapeofdesignbook.com/)
 - [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
 - [Design for the Real World](http://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532/)
+- [How to Make Sense of Any Mess: Information Architecture for Everybody](http://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994/)
 
 ##Articles
+###Design Generalists
+- [Defending The Generalists In The Web Design Industry](http://www.smashingmagazine.com/2011/07/defending-the-generalists-in-the-web-design-industry/)
+- [Should You Become A UX Generalist Or A UX Specialist?](http://uxmastery.com/should-you-become-a-ux-generalist-or-a-ux-specialist/)
+- [Designing in the Borderlands](http://frankchimero.com/writing/designing-in-the-borderlands/)
+- [Why the Best Designers Don’t Specialize in Any One Thing](http://www.wired.com/2014/06/why-the-best-designers-dont-specialize-in-any-one-thing/)
+- [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balance)
+
+###UX
 - [UI Design Principles And Guidelines](https://visualhierarchy.co/blog/ui-design-principles-and-guidelines/)
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
 - [10 Questions You’ll Be Asked in a UX Interview](https://medium.com/salesforce-ux/10-questions-youll-be-asked-in-a-ux-interview-f93f0c78f31d)
@@ -53,6 +82,10 @@ A list of resources for UXDI students
 - [The 10 Commandments Of User Interface Design](http://editorial.designtaxi.com/editorial-images/news-info300415/1.jpg)
 - [The Dribbblisation of Design](https://medium.com/@intercom/the-dribbblisation-of-design-406422ccb026)
 - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
+- [Build It With The User in Mind: How to Design User Flow](http://conversionxl.com/how-to-design-user-flow/)
+- [Streamlining the Design Process: User Flow to Final Design using Sketch](https://medium.com/@wixelhq/streamlining-the-design-process-user-flow-to-final-design-using-sketch-ba71d2355bf9)
+- [Stop Designing Pages And Start Designing Flows](http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
+- [The 30 Minute Business Plan: Business Model Canvas Made Easy](http://www.alexandercowan.com/business-model-canvas-templates/)
 
 ##Design Blogs
 - [A List Apart](http://alistapart.com/)
@@ -69,26 +102,53 @@ A list of resources for UXDI students
 
 ##Tools
 ###Research
-- [User Testing](http://www.usertesting.com/)
+####Survey
 - [SurveyMonkey](https://www.surveymonkey.com/)
+- [Google Forms](http://www.google.com/forms/)
+
+####Usability
+- [User Testing](http://www.usertesting.com/)
 - [Peek](http://peek.usertesting.com/)
 - [Validately](https://validately.com/)
-- [Visual Website Optimizer (A/B testing)](https://vwo.com/)
 - [Silverback](http://silverbackapp.com/)
+
+####A/B Testing
+- [Visual Website Optimizer (A/B testing)](https://vwo.com/)
+
+####Analysis and Feedback
+- [Optimal Workshop](https://www.optimalworkshop.com/)
+- [Hotjar](https://www.hotjar.com)
 - [Hunie](http://hunie.co/)
+
+####Screensharing
+- [Join.me](https://www.join.me/)
+- [Google Hangouts](http://www.google.com/+/learnmore/hangouts/)
+- [Skype](http://www.skype.com/)
+
+####Screen Recording
+- [UX Recorder](http://www.uxrecorder.com/)
+- [Quicktime](https://www.apple.com/quicktime/download/)
+- [Screeny](http://screenyapp.com)
 
 ###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
+- [Balsamiq](https://balsamiq.com/)
 
 ###Prototyping
 - [POP](https://popapp.in/)
 - [Invision](http://www.invisionapp.com/)
+- [Marvel](https://marvelapp.com/)
 - [UXPin](https://www.uxpin.com/)
 - [Flinto](https://www.flinto.com/)
+- [Axure](http://www.axure.com/)
+- [Proto.io](https://proto.io/)
+- [Frontify](https://frontify.com/)
+- [Bubble](https://bubble.is)
 
 ###Animation/Interaction
 - [Hype](http://tumult.com/hype/)
 - [Origami](https://facebook.github.io/origami/)
+- [Adobe Edge Animate](https://creative.adobe.com/products/animate)
 - [Creative Uses of Animated GIFs to Present UI Designs](http://line25.com/articles/creative-uses-animated-gifs-present-ui-designs)
 
 ###Visual Design
@@ -96,9 +156,23 @@ A list of resources for UXDI students
 - [Adobe CC](http://www.adobe.com/creativecloud.html)
 - [Affinity](https://affinity.serif.com/en-us/)
 
-####Resources
+#### Visual Design Resources
 - [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
 - [Tether UI Kit](http://www.invisionapp.com/tethr)
+
+####Sketch Resources
+- [Overview](https://designcode.io/sketch)
+- [Shortcuts](http://sketchshortcuts.com/)
+
+#####PLUGINS
+- [Sketch Mirror (for inline prototyping)](http://www.bohemiancoding.com/sketch/features/#mirror)
+- [Symbols](https://github.com/tisho/sketch-plugins/tree/master/Symbols)
+
+####Articles
+- [iOS Dev in Sketch (Managing Workflow)](https://medium.com/@tilllur/managing-sketch-for-ios-dev-8046d2eedc61)
+- [How to Wireframe in Sketch](http://blog.mengto.com/how-to-wireframe-an-iphone-app-in-sketch/)
+- [How to Switch From Photoshop to Sketch](http://blog.mengto.com/photoshop-users-how-to-switch-to-sketch/)
+- [Hidden Features in Sketch](http://blog.mengto.com/the-best-hidden-features-in-sketch/)
 
 ###Front-End
 ####Resources
@@ -109,14 +183,28 @@ A list of resources for UXDI students
 - [Ratchet](http://goratchet.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Clique](http://ui.cliquestudios.com/)
+- [Semplice](http://www.semplicelabs.com/)
+>>>>>>> 3cab6d7dc9d576b0a98975e347e4421da114f776
 
 ####Tools
 - [GitHub](http://github.com/)
+- [Github for Desktop](https://desktop.github.com/)
+	- [Git Intro Video](https://www.youtube.com/watch?v=qrhHUCuXZQ8)
 - [Sublime Text](http://www.sublimetext.com/)
 - [Atom](https://atom.io/)
 - [Sitespeed](http://www.sitespeed.io/)
 - [CodePen](http://codepen.io/)
+- [Adobe Edge Inspect](https://creative.adobe.com/products/inspect)
+- [Brackets](http://brackets.io)
 
+####Visual Website Builders
+- [Webflow](https://webflow.com/)
+- [Macaw](http://macaw.co/)
+- [Squarespace](http://www.squarespace.com/)
+- [Weebly](http://www.weebly.com/)
+- [Wix](http://www.wix.com/)
+- [Adobe Muse](http://muse.adobe.com)
+- [Adobe Edge Reflow](https://creative.adobe.com/products/reflow)
 
 ###File Storage
 - [Dropbox](https://db.tt/MxDI0Fc)
