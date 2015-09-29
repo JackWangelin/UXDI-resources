@@ -183,8 +183,8 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Ratchet](http://goratchet.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Clique](http://ui.cliquestudios.com/)
-- [Semplice](http://www.semplicelabs.com/)
->>>>>>> 3cab6d7dc9d576b0a98975e347e4421da114f776
+- [Semplice](http://www.semplicelabs.com/) - 3cab6d7dc9d576b0a98975e347e4421da114f776
+-[HTML5 Boilerplate](https://html5boilerplate.com/)
 
 ####Tools
 - [GitHub](http://github.com/)
